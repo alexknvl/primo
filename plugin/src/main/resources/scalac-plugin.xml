@@ -1,0 +1,4 @@
+<plugin>
+    <name>primo</name>
+    <classname>primo.UniquePlugin</classname>
+</plugin>
